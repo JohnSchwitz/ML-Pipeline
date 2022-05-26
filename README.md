@@ -1,2 +1,2 @@
 # ML-Pipeline
-This is a collection of Notebooks used to Define a Pipeline for Language Processing.
+This is a collection of Notebooks and a description of the process used to Define a ML Pipeline.
